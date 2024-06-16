@@ -22,7 +22,7 @@
 
 #define WS2812_PIO_USE_PIO1 // Force the usage of PIO1 peripheral, by default the WS2812 implementation uses the PIO0 peripheral
 #define WS2812_DI_PIN GP17
-#define RGBLED_NUM 30
+#define RGBLIGHT_LED_COUNT 30
 #define RGBLED_SPLIT {15, 15}
 #define RGBLIGHT_EFFECT_BREATHING
 #define RGBLIGHT_EFFECT_RAINBOW_MOOD
